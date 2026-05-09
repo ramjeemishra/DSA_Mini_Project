@@ -58,8 +58,8 @@ clang++ expression_evaluator.cpp -o expression_evaluator
 | Member | Role | Modules |
 |--------|------|---------|
 | **Ramjee** | Stack Developer | CharStack, DoubleStack, Push/Pop/Peek |
-| **Aryan** | Conversion Core | Infix→Postfix, Infix→Prefix, Precedence handling |
-| **Dev** | Evaluator & Validator | Postfix Evaluation, Balanced Parentheses, Error handling |
+| **Dev** | Conversion Core | Infix→Postfix, Infix→Prefix, Precedence handling |
+| **Aryan** | Evaluator & Validator | Postfix Evaluation, Balanced Parentheses, Error handling |
 | **Ismail** | Features & UI | History Manager, Undo Manager, Menu Interface |
 
 ---
